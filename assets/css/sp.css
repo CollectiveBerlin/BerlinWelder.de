@@ -1,0 +1,28 @@
+h3{
+    text-align: left;
+}
+blockquote{
+    text-align: left;
+}
+
+.features li{
+    font-size: 1.25em;
+    margin:0.5em;
+
+}
+/*@media only screen and (min-width: 737px) {*/
+
+/*}*/
+
+@media only screen and (max-width: 736px) {
+.features li{
+    margin:0 0 0 1em ;
+
+    text-align: left;
+
+}
+}
+
+@media only screen and (max-width: 736px) {
+}
+
